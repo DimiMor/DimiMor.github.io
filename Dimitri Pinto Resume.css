@@ -1,0 +1,97 @@
+body{
+    top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav{
+    display: inline-flex;
+    background-color: rgb(98, 105, 105);
+    color:lightgray;
+    width: 100%;
+    position:fixed;
+    z-index: 1;
+    top: 0px;
+    margin:0px;
+
+      
+}
+
+.navbar{
+    font-weight: bolder;
+    list-style-type: none;
+    display: inline-flex;
+    
+}
+
+#linavbar{
+    padding-left: 20px;
+    padding-right: 10px;
+    border-left: solid 1px lightgray;
+    
+}
+
+a {
+    color: rgb(161, 153, 153);
+    text-decoration: none;
+    
+}
+
+.name{
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    border-bottom: solid 5px black;
+    padding-bottom: 60px;
+    font-size: 45px;
+}
+
+main{
+    font-size: 20px;
+}
+
+h2{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+.profile{
+    margin-top: 40px;
+}
+
+#pprofile{
+    margin-left: 100px;
+    width: 800px;
+}
+
+#liprofile {
+    margin-left: 120px;
+    width: 800px;
+
+}
+
+
+#biicons{
+    margin-left: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 50px;
+}
+
+#institution, #pexperience {
+    margin-left: 100px;
+    border-bottom: solid 2px black;
+    margin-top:45px;
+
+}
+
+#idbachelor {
+    margin-left: 120px;
+
+}
+
+#h2contact{
+    margin-left: 70px;
+    margin-top: 120px;
+}
+
+
