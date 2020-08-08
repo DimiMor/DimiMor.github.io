@@ -1,6 +1,9 @@
 body{
     top: 0px;
     font-family: 'Times New Roman', Times, serif;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 nav{
