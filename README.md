@@ -1,1 +1,1 @@
-# DimiMor.githu.io
+# DimiMor.github.io
