@@ -1,7 +1,7 @@
 body{
     top: 0px;
     font-family: 'Times New Roman', Times, serif;
-    background-image: url();
+    background-image: url(https://images.pexels.com/photos/2512280/pexels-photo-2512280.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -15,7 +15,8 @@ nav{
     z-index: 1;
     top: 0px;
     margin:0px;
-
+    left: 0px;
+    right: 0px;
       
 }
 
@@ -28,14 +29,15 @@ nav{
 
 #linavbar{
     padding-left: 20px;
-    padding-right: 10px;
+    padding-right: 20px;
     border-left: solid 1px lightgray;
     
 }
 
 a {
-    color: rgb(161, 153, 153);
-    text-decoration: none;
+    color: black;
+    text-decoration: ;
+    
     
 }
 
@@ -95,6 +97,9 @@ h2{
 #h2contact{
     margin-left: 70px;
     margin-top: 120px;
+    border-bottom: solid 
 }
 
-
+#inlinecontact {
+  margin-left: 120px;
+}
